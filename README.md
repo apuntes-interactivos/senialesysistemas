@@ -1,1 +1,1 @@
-# senialesysistemas
+# Análisis de señales y sistemas
